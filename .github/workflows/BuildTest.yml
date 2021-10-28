@@ -1,4 +1,4 @@
-name: InsuranceNumber
+name: build + test
 
 on:
   push:
